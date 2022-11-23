@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Franzininho DIY',
+      label: 'Franzininho DIY XX',
       items: [
         'FranzininhoDIY/franzininho-diy',
         {
