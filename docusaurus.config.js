@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Franzininho',
+  title: 'Franzininho RJLR',
   tagline: 'O projeto Franzininho tem o objetivo de incentivar as pessoas na tecnologia através da cultura maker e do faça você mesmo.',
-  url: 'https://franzininho.github.io',
+  url: 'https://ricardojlrufino.github.io/docs-franzininho-site/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
