@@ -2,7 +2,7 @@ module.exports = {
   title: 'Franzininho RJLR',
   tagline: 'O projeto Franzininho tem o objetivo de incentivar as pessoas na tecnologia através da cultura maker e do faça você mesmo.',
   url: 'https://ricardojlrufino.github.io/docs-franzininho-site/',
-  baseUrl: '/',
+  baseUrl: '/docs-franzininho-site/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
