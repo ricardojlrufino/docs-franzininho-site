@@ -3,6 +3,7 @@ id: sobre
 title: Seja bem vindo a documentação do projeto Franzininho
 sidebar_label: Seja bem vindo!
 slug: /
+published: true
 ---
 
 Aqui você encontra a documentação (**em Desenvolvimento**) para trabalhar com todas as placas e Kits Franzininho.
@@ -38,4 +39,3 @@ Caso não tenha conhecimento no Github, você pode enviar o seu material atravé
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 Este obra está licenciada com uma Licença [Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional](http://creativecommons.org/licenses/by-sa/4.0/).
-
